@@ -1,0 +1,4 @@
+## About
+
+Currently learning Clojure
+
